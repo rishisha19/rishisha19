@@ -102,6 +102,7 @@ I am professionaly working in hands on role which ranges from creating designs, 
 
 <h3>My latest posts</h3>
 <ul>
+  <li><a href="https://medium.com/@rishi.sha/enhancing-rest-api-security-a-guide-to-openid-connect-oauth-2-0-and-bff-based-authentication-c26c8f3dff4e"><b>Enhancing REST API Security: A Guide to OpenID Connect, OAuth 2.0, and BFF-Based Authentication</b></li>
   <li><a href="https://medium.com/coinmonks/from-concept-to-cryptocurrency-a-step-by-step-guide-to-creating-your-first-coin-7695c4fedbcc"><b>From Concept to Cryptocurrency: A Step-by-Step Guide to Creating Your First </b></li>
   <li><a href="https://medium.com/@rishi.sha/so-thats-what-it-means-understanding-how-blockchains-work-1024d22d5eb7"><b>So That’s What it Means: Understanding How Blockchains Work: A Beginners Guide</b></a></li>
     <li><a href="https://medium.com/@rishi.sha/designing-chat-system-with-ease-part-1-overview-features-requirements-1d2f7cf6e9e5"><b> Designing Chat System with Ease, Part 1: Overview, Features & Requirements</b></a></li>
